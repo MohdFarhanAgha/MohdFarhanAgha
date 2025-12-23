@@ -27,7 +27,9 @@
 ---
 
 ## 🚀 Featured Projects  
-📊 [Mobile Store Sales Dashboard (Power BI)](https://github.com/mohd-farhan-agha/Mobile-Sales-Dashboard)  
+📊 [Mobile Store Sales Dashboard (Power BI)](https://github.com/mohd-farhan-agha/Mobile-Sales-Dashboard) 
+
+📊 [Amazon Sales Dashboard (Power BI)](https://github.com/MohdFarhanAgha/Amazon-Sales-Dashboard)
  
 
 ---
