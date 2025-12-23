@@ -27,10 +27,9 @@
 ---
 
 ## 🚀 Featured Projects  
-📊 [Mobile Store Sales Dashboard (Power BI)](https://github.com/mohd-farhan-agha/Mobile-Sales-Dashboard) 
-
+📊 [Pizza Sales Analysis (SQL)(https://github.com/MohdFarhanAgha/Pizza-Sales-Analysis---SQL)
 📊 [Amazon Sales Dashboard (Power BI)](https://github.com/MohdFarhanAgha/Amazon-Sales-Dashboard)
- 
+📊 [Mobile Store Sales Dashboard (Power BI)](https://github.com/mohd-farhan-agha/Mobile-Sales-Dashboard) 
 
 ---
 
